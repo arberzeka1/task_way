@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "699542454777",
+    "project_id": "task-way-72c70",
+    "storage_bucket": "task-way-72c70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699542454777:android:9318c50a88736a179b3d28",
+        "android_client_info": {
+          "package_name": "com.taskWay.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD33PMeFejf_y-OMOytMZQw-66ovAGOx8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
